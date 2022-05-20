@@ -34,5 +34,5 @@
 # git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
 # git clone https://github.com/kuoruan/openwrt-v2ray.git package/v2ray-core
 
-# echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 # echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
